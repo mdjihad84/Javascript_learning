@@ -1,6 +1,6 @@
 /*
                           
-                                                ! HOME WORK
+                                            ! HOME WORK
 
         *1. Create a function that takes two numbers and returns their Multiplication.
 
@@ -13,13 +13,49 @@
         *5.  If the score is greater than or equal to 50, display "You passed!", otherwise display "You failed!" Use the ternary operator for this
 
 
-                                                ! extra homework
+                                            ! extra homework
                                                 
-                                                * 1. function ki?
-                                                * 2. scope ki?
-                                                * 3. js expressions ki?
-                                                * 4. js operators ki?
+                                            * 1. function ki?
+                                            * 2. scope ki?
+                                            * 3. js expressions ki?
+                                            * 4. js operators ki?
 */ 
+/*
+                                            ? What is function
+
+                * A JavaScript function is a block of code designed to perform a particular task.
+
+     * Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure
+
+
+
+                                            ? Whate is scope
+
+                        * The scope determines the accessibility (visibility) of variables.
+
+                        * The scope In JavaScript, scope refers to the current context of your code.
+
+
+
+                                    ? What is javascript expressions
+
+                        * 1. A regular expression is a sequence of characters that forms a search pattern.
+
+                        * 2. A regular expression can be a single character, or a more complicated pattern.
+
+                        * 3. Regular expressions can be used to perform all types of text search and text replace operations.  
+                                    
+                                    
+                                    ? What is javascript operators
+
+        * 1. 
+
+        * 2. Javascript operators are used to perform different types of mathematical and logical computations
+
+                        
+                            
+
+ */
 
                                         
 
