@@ -13,8 +13,23 @@
         *5.  If the score is greater than or equal to 50, display "You passed!", otherwise display "You failed!" Use the ternary operator for this
 
 
-                                ? Home Number (5) Conditional (Ternary) Operator.
+                            ? Home Number (1) function Multiplication.             
 */ 
+                                function Multiplication(x,y){
+                                        return x * y;
+                                }
+                                let result = Multiplication(25,40)
+                                console.log(result)
+
+                                function calculation(m,n){
+                                        return m * n;
+                                }
+                                   let output = calculation(15,38)
+                                   console.log(output)
+
+/*
+                        ? Home Number (5) Conditional (Ternary) Operator. 
+ */
                                 let number = 65;
                                 let calculate = (number >= 50) ? "You passed!" : "You failed!";
                                 console.log(calculate);
