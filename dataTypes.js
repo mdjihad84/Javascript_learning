@@ -13,13 +13,34 @@
         *5.  If the score is greater than or equal to 50, display "You passed!", otherwise display "You failed!" Use the ternary operator for this
 
 
-                                            ! extra homework
-                                                
-                                            * 1. function ki?
-                                            * 2. scope ki?
-                                            * 3. js expressions ki?
-                                            * 4. js operators ki?
+                                ? Home Number (5) Conditional (Ternary) Operator.
 */ 
+                                let number = 65;
+                                let calculate = (number >= 50) ? "You passed!" : "You failed!";
+                                console.log(calculate);
+
+                                let age = 45;
+                                let calculator = (age >= 50) ? "You passed!" : "You failed!";
+                                console.log(calculator);
+
+                                let point = 60;
+
+                                if(point>= 50){
+                                console.log("You passed!")
+                                } else {
+                                console.log("You failed!")
+                                }
+ 
+
+                                        
+/*
+                                        ! extra homework
+                                                
+                                        * 1. function ki?
+                                        * 2. scope ki?
+                                        * 3. js expressions ki?
+                                        * 4. js operators ki?
+ */
 /*
                                             ? What is function
 
@@ -46,9 +67,10 @@
                         * 3. Regular expressions can be used to perform all types of text search and text replace operations.  
                                     
                                     
+                                    
                                     ? What is javascript operators
 
-        * 1. 
+* 1. operators are special symbols used in scripts to perform operations on operands, such as arithmetic calculations, logical comparisons, or value assignments.
 
         * 2. Javascript operators are used to perform different types of mathematical and logical computations
 
