@@ -34,23 +34,11 @@
                         ? Home Number (2) function that prints use a parameter.
                                 
 */
-                                        function myFuntion(){
-                                                console.log('Good morning');
-                                        }
-                                        myFuntion()
+                                        let video = "playlist"; 
 
-                                        function firstFuntion(){
-                                                console.log('Good evening');
+                                        function displayVar() {
+                                        console.log(video);
                                         }
-                                        firstFuntion()
-
-                                        function greet(is_Morning) {
-                                                if (is_Morning) {
-                                                    console.log("Good Morning!");
-                                                } else {
-                                                    console.log("Good Evening!");
-                                                }
-                                            }
 
 
 /*
@@ -77,23 +65,11 @@
                                         console.log(c);
 
 /*
-                        ? Home Number (4) Use comparison operators. 
+                        ? Home Number (4) Conditional (Ternary) Operator. 
  */                              
-                        
-                                let age = 18;
-                                if(age>= 18){
-                                console.log("You are a voter")
-                                } else {
-                                console.log("You are not voter")
-                                }
+                                        
 
 
-                                let check = 16;
-                                if(check>= 18){
-                                console.log("You are a voter")
-                                } else {
-                                console.log("You are not voter")
-                                }
 
 /*
                         ? Home Number (5) Conditional (Ternary) Operator.  
@@ -102,8 +78,8 @@
                                 let calculate = (number >= 50) ? "You passed!" : "You failed!";
                                 console.log(calculate);
 
-                                let member = 45;
-                                let calculator = (member >= 50) ? "You passed!" : "You failed!";
+                                let age = 45;
+                                let calculator = (age >= 50) ? "You passed!" : "You failed!";
                                 console.log(calculator);
 
                                 let point = 60;
@@ -154,7 +130,7 @@
 
 * 1. operators are special symbols used in scripts to perform operations on operands, such as arithmetic calculations, logical comparisons, or value assignments.
 
-        * 2. Javascript operators are used to perform different types of mathematical and logical computations.
+        * 2. Javascript operators are used to perform different types of mathematical and logical computations
 
                         
                             
